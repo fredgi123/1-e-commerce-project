@@ -1,0 +1,9 @@
+statsmodels==0.12.2
+streamlit
+xlrd
+openpyxl
+pmdarima
+wordcloud
+wget==3.2
+statsmodels
+tabulate
