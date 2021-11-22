@@ -10,4 +10,4 @@ tabulate
 matplotlib
 folium
 altair
-scikit-learn
+
