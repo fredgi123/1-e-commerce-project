@@ -7,3 +7,7 @@ wordcloud
 wget==3.2
 statsmodels
 tabulate
+matplotlib
+folium
+altair
+scikit-learn
